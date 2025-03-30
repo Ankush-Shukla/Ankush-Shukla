@@ -1,22 +1,8 @@
- <span id="greeting">Loading...</span>   
-<script>
-  function getGreeting() {
-    const hour = new Date().getHours();
-    let greeting;
-    
-    if (hour < 12) {
-      greeting = "Good morning! ☀️";
-    } else if (hour < 18) {
-      greeting = "Good afternoon! 🌤️";
-    } else {
-      greeting = "Good evening! 🌙";
-    }
-    
-    document.getElementById("greeting").innerText = greeting;
-  }
-  
-  getGreeting();
-</script>
+<!--![Dynamic Greeting ](https://img.shields.io/endpoint?url=https://greeting-final.vercel.app)-->
+# Hello there !
+
+
+
 I'm Ankush Shukla, a tech enthusiast currently pursuing **BCA at JIMS Greater Noida (2023-2026)**. I love exploring different technologies, whether it's **web development, game development, backend systems**, or anything that sparks my curiosity.  
 
 I enjoy solving problems, building projects, and continuously learning new things. Feel free to check out my repositories and see what I'm working on! 🚀  
@@ -38,3 +24,21 @@ I enjoy solving problems, building projects, and continuously learning new thing
 [![](https://visitcount.itsvg.in/api?id=Ankush-Shukla&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<script>
+  function getGreeting() {
+    const hour = new Date().getHours();
+    let greeting;
+    
+    if (hour < 12) {
+      greeting = "Good morning! ☀️";
+    } else if (hour < 18) {
+      greeting = "Good afternoon! 🌤️";
+    } else {
+      greeting = "Good evening! 🌙";
+    }
+    
+    document.getElementById("greeting").innerText = greeting;
+  }
+  
+  getGreeting();
+</script>
