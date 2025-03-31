@@ -23,22 +23,3 @@ I enjoy solving problems, building projects, and continuously learning new thing
 ---
 [![](https://visitcount.itsvg.in/api?id=Ankush-Shukla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<script>
-  function getGreeting() {
-    const hour = new Date().getHours();
-    let greeting;
-    
-    if (hour < 12) {
-      greeting = "Good morning! ☀️";
-    } else if (hour < 18) {
-      greeting = "Good afternoon! 🌤️";
-    } else {
-      greeting = "Good evening! 🌙";
-    }
-    
-    document.getElementById("greeting").innerText = greeting;
-  }
-  
-  getGreeting();
-</script>
