@@ -22,4 +22,5 @@ I enjoy solving problems, building projects, and continuously learning new thing
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ankush-Shukla&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Ankush-Shukla)
 
