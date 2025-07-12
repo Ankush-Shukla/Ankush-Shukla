@@ -15,7 +15,6 @@ I enjoy solving problems, building projects, and continuously learning new thing
 # 📊 GitHub Stats:
 
 <!--![Ankush-Shukla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankush-Shukla&theme=dark&hide_border=true ) -->
-![Ankush-Shukla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankush-Shukla&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-Shukla&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
